@@ -1,0 +1,12 @@
+.navbar-brand{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 40px;
+    color: black;
+}
+.nav-text{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 40px;
+    color: green;
+}
