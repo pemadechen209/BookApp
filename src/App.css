@@ -1,9 +1,12 @@
 .App {
   text-align: center;
    background-image: linear-gradient(to left top,
-  rgba(128, 214, 113, 0.04),
-  rgb(31, 83, 226),
-  url('./assests/images/5AMCLUB.png')
+   rgba(128, 214, 113, 0.04),
+   rgb(179, 190, 176)
+  /* ,
+  url('./assests/images/5AMCLUB.png') */
   );
+  padding-right :0px !important;
+  padding-left:0px !important;
 }
 

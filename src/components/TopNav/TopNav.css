@@ -2,11 +2,35 @@
     text-transform: uppercase;
     text-decoration: none;
     padding: 15px 40px;
-    color: black;
+    color: rgb(30, 32, 32);
+    font-weight: bolder;
+    text-shadow: 1px 1px 5px orange;
 }
 .nav-text{
     text-transform: uppercase;
     text-decoration: none;
     padding: 15px 40px;
-    color: green;
+    color: rgb(236, 243, 236);
+}
+.navbar{
+    background-image: linear-gradient(to left top,
+    #282A35,
+    rgba(216, 22, 190, 0.103))
+}
+
+.nav-link{
+    color:black !important;
+    text-shadow: 1px 1px 5px orange;
+}
+.nav-link:hover, .navbar-brand:hover{
+    color: orange!important;
+    text-shadow: 1px 1px 5px black !important  ;
+}
+
+.container-fluid{
+    padding-left: 0px !important;
+}
+
+ .nav-link{
+    cursor: pointer;
 }
