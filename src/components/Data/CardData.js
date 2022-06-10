@@ -181,17 +181,5 @@ It was only then did I realise the obvious. If I was waking up an hour earlier t
 ld like to learn more about the work I do, and how I can help you to become better organised and more productive, you can visit my website or you can say hello on Twitter, YouTube or Facebook and subscribe to my weekly newsletter right here.
 
 `
-},
-{
-    Image: InnerEnginnering,
-    Title: `Inner Engineering: A Yogi's Guide to Joy`,
-    SubTitle: `The 5 AM club is a concept started by Robin Sharma where you wake up at 
-    5 AM do twenty-minutes exercise, twenty-minutes planning and twenty-minutes study`,
-    Description: `Last week I joined the 5 AM Club. For those who don’t know, the 5 AM club is a concept started by Robin Sharma where you wake up at 5 AM do twenty-minutes exercise, twenty-minutes planning and twenty-minutes study. It’s a great concept and it is something I have been wanting to do for some time.
-
-I did modify the 20/20/20 structure a little. Personally, I don’t like exercise first thing in the morning and I believe planning the night before is more effective. However, I have taken the learning part and changed it to work better for me.
-
-`
-
 }
 ]
